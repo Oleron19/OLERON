@@ -1,3 +1,74 @@
-# OLERON
-Ile d'Oleron - Premier référentiel GITHUB
-Nouvelle journée
+<!DOCTYPE html>
+<html lang="fr">                 
+    <head>
+        <meta charset="utf-8" />
+		 <!--[if lt IE 9]>
+            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        <link rel="stylesheet" href="style.css" />
+        <title>Bienvenue sur l'Ile d'oléron</title>
+    </head>
+
+    <body> 
+			<div id="bloc_page">
+				<header>
+				<div id="titre_principal">
+					<h1>BIENVENUE SUR L'ILE D'OLERON... "LA LUMINEUSE"</h1>
+					<img src="http://www.auradeco.com/images/fleur/normal/34.jpg"style="float:left;width:100px;height:100px">
+				</div>
+		
+			<nav>
+                    <ul>
+                        <li><a href="#">BIENVENUE</a></li>
+                        <li><a href="#">DECOUVERTE</a></li>
+                        <li><a href="#">EVENEMENTS</a></li>
+						<li><a href="#">ACTIVITES</a></li>
+                        <li><a href="http://www.ile-oleron-marennes.com/#">INFORMATIONS & LIENS UTILES</a></li>
+                    </ul>
+            </nav>
+				</header>		
+			
+				<section>
+					<article>
+						<h1>L'Ile d'Oléron</h1>
+							<p>L’île d’Oléron est située dans l’océan Atlantique, au large des côtes de la Charente Maritime où elle fait partie de l'archipel charentais.</p>
+							<p>Plus grande des îles françaises métropolitaines après la Corse, avec ses 30 kilomètres de long sur 8 kilomètres de large (dans la plus grande largeur), elle a une superficie de 174 km2 et plus de 20 000 habitants permanents.</p>
+							<p>Au cours de son histoire, elle fait tantôt partie de l’ancienne province de l’Aunis, tantôt de l’ancienne province de Saintonge, au gré des nombreuses guerres, surtout pendant la période médiévale.</p>
+							<p>Administrativement, l’île d’Oléron appartient aujourd’hui au département de la Charente Maritime, lequel dépend de la région Poitou Charentes, et est divisée en deux cantons.
+							<p>Sa capitale actuelle est Saint Pierre d'Oléron, principal pôle commercial et artisanal de l'île.</p>
+							<p>Depuis le 19 mars 1966, l’île est reliée au continent par un pont routier, long de 2 862 mètres (le troisième plus long pont de FRANCE après celui de l’île de Ré et celui de Saint-Nazaire) qui est le plus vieux pont de FRANCE à relier une île au continent.</p>
+							<p>Célébrée par Pierre LOTI, elle est surnommée Oléron « la lumineuse » en raison de son fort taux d’ensoleillement tout au long de l'année.</p>
+							<img src="http://www.saintdenisoleron.fr/files/2012/01/Le-Phare-de-Chassiron-st-denis-doleron.jpg"style=float:center;width:300px;height:50px"/>
+					
+						<h2>Le bassin de Marennes Oléron</h2>
+							<p> Saint-Sornin, Le Gua, Nieulle sur Seudre, Saint Just Luzac, Hiers-Brouage, Marennes et Bourcefranc Le Chapus sont les sept communes qui composent ce bassin.
+							<p> Le bassin de Marennes Oléron s'étend sur la partie sud ouest de la Charente Maritime et sa délimitation géographique s'applique à 27 communes littorales.
+							<p>	Les marais de l'estuaire de la Seudre, de Marennes au nord sur la rive droite et La Tremblade au sud sur la rive gauche jusqu'à L'Éguille au fond de l'estuaire; les marais du sud-est de l'île d'Oléron, les marais de Bourcefranc, commune située entre l'île d'Oléron et Marennes, étendus au nord jusqu'à la pointe du Chapus, qui sont d'anciens marais salants, utilisés en claires.
+							<p> Par métonymie, c'est également l'appellation des huîtres qui proviennent de ce bassin de production et qui répondent au cahier des charges défini dans le cadre de l'IGP (Indication Géographique Protégée). Les huîtres qui proviennent de cette zone mais qui ne respectent pas le cahier des charges ne peuvent prétendre à l'appellation "huîtres Marennes Oléron". Ces huîtres, de type « creuses » - crassostrea gigas - élevées d'abord en pleine eau dans les parcs puis, affinées en claires, correspondent aux appellations "fines de claire"
+								et "spéciales de claire"."
+							<p> Le bassin de Marennes est riche d'un patrimoine hors du commun. Doté de nombreuses fortifications, citons la citadelle de Brouage, avec ses remparts aux échauguettes emblématiques, le Fort Louvois, dernière fortification construite sous le règne de Louis XIV ou encore la tour de Broue, vestige d'un ensemble fortifié du XIe siècle. Le clocher de l'église de Marennes culminant à 85 mètres ou le château de La Gataudière, à Saint Just Luzac, le Moulin des Loges témoigne de l’ingéniosité humaine en fonctionnant au rythme des marées.</p>
+					</article>
+											
+			
+				<aside>
+					<div>
+							<h1>Flash infos</h1>
+							<p> C'est avec beaucoup de plaisir que je vous présente, en quelques lignes, l'Ile d'Oléron et le bassin de Marennes, pour lesquels j'ai eu un réel coup de foudre, il y a une quinzaine d'années.
+							<p> C'est donc, tout naturellement, pour mon attachement à cette île et à sa région, que je me suis aventurée à la création de cete page internet afin de répondre à un des excercices demandés par la WILD CODE SCHOOL. En effet, cette école numérique située à LA LOUPE, en Eure & Loir, propose une formation au développement web et mobile, dont je souhaiterais intégrer la prochaine session à la fin de l'été à venir. 
+							<p> Espérant que vous avez apprécié cette page, je vous dis à bientôt !...</p>
+					</div>
+				</aside>
+				</section>
+			
+				<footer>
+					<div>
+							<h1>Mes endroits préférés...</h1>
+							<p>... Sur l'île : La plage de Gatseau à Saint Trojan, la plage des Huttes à Saint Denis, le port de la Cotinière.</p>
+							<p>... Aux alentours : Le fort Louvois à Bourcefranc Le Chapus, le zoo de la Palmyre, Brouage, Rochefort et son pont transbordeur, La Rochelle, Fouras, le marais Poitevin.</p>
+							<img src="http://www.oleron-plage.fr/wp-content/uploads/2009/11/huitres-marennes-oleron.jpg"style="width:300px;height:150px">
+							<img src="http://www.en-charente-maritime.com/sites/en-charente-maritime.com/files/ptit-train-st-trojan-3_0.jpg"style=width:200px;height:250px">
+							<img src="http://www.oleronmag.com/Images/pub/touzac/cotiniereDSC00937.jpg"style="width:300px;height:150px">			
+					</div>
+				</footer>
+</body>
+</html>
